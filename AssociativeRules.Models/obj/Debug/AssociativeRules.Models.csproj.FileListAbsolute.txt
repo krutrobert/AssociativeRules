@@ -1,0 +1,6 @@
+C:\Users\bibip_000\source\repos\AssociativeRules\AssociativeRules.Models\bin\Debug\AssociativeRules.Models.dll
+C:\Users\bibip_000\source\repos\AssociativeRules\AssociativeRules.Models\bin\Debug\AssociativeRules.Models.pdb
+C:\Users\bibip_000\source\repos\AssociativeRules\AssociativeRules.Models\obj\Debug\AssociativeRules.Models.csproj.CoreCompileInputs.cache
+C:\Users\bibip_000\source\repos\AssociativeRules\AssociativeRules.Models\obj\Debug\AssociativeRules.Models.dll
+C:\Users\bibip_000\source\repos\AssociativeRules\AssociativeRules.Models\obj\Debug\AssociativeRules.Models.pdb
+C:\Users\bibip_000\source\repos\AssociativeRules\AssociativeRules.Models\obj\Debug\AssociativeRules.Models.csprojResolveAssemblyReference.cache
